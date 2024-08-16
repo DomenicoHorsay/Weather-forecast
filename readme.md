@@ -2,7 +2,7 @@
 
 <h4>This is the Clima-App project, a weather status page developed using the OpenWeatherMap API. In this project, I created a simple, responsive page that allows users to search for a city's weather forecast and displays information such as temperature, wind speed, and sky conditions.<h4>
 
-<img src="src/images/project-img.svg"> 
+<img src="src/images/project-img.svg" align="middle"> 
 
 
 <h1>Project Description<h1>
