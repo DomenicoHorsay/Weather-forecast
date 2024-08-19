@@ -32,14 +32,14 @@ API OpenWeatherMap
 
 <h1>How to Use<h1>
 
-<h4>Open the index.html file in your web browser.<h4>
+<h4>Open the index.html file in your web browser.
 
-<h4>In the search box, type the name of the city for which you want to get the weather forecast.<h4>
-
-<h4>Press the search button or press "Enter" on your keyboard.<h4>
-
-<h4>Weather forecast information for the specified city will be displayed on the screen, including temperature, wind speed, and sky conditions.<h4>
-
+In the search box, type the name of the city for which you want to get the weather forecast.
+<br>
+Press the search button or press "Enter" on your keyboard.
+<br>
+Weather forecast information for the specified city will be displayed on the screen, including temperature, wind speed, and sky conditions.
+<h4>
 <h1>Contribution<h1>
 
 <h4>This is a personal project. So I'm happy to hear your comments and suggestions<h4>
